@@ -3,7 +3,7 @@ One of the great extensions you can definitely use while hunting in bug-bounty i
 
 # Important 
 You can see all the thing in this link :
-[Visit Link][(https://example.com](https://portswigger.net/burp/documentation/desktop/tools/dom-invader))
+[Visit Link](https://portswigger.net/burp/documentation/desktop/tools/dom-invader)
 
 
 # Features:
