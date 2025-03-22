@@ -1,5 +1,5 @@
 # DOM-Invader
-One of the great extensions you can definitely use while hunting in bug-bounty is this one.
+One of the great extensions you can use for hunting vulnerabilities, especially for finding postMessage vulnerabilities, is this one.
 
 # Important 
 You can see all the thing in this link :
